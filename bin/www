@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('alexandemartinnannafitnessapp:server');
+var debug = require('debug')('webgr13:server');
 var http = require('http');
 
 /**
